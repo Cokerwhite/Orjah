@@ -3,10 +3,10 @@
     --colorDeafultO: #55555e;    
     --colorDeafultWhiteOnPst: #ffffff;    
     --colorDeafultBlack: #000000;    
-    --colorDeafultGrey2: #424242;    
-    --colorGrey01: #323139;    
-    --colorGrey02T: #707a87;    
-    --colorGrey03: #c0c4ca;    
+    --colorGrey04: #414342;    
+    --colorGrey01: #c4c5c5;    
+    --colorGrey02: #a7a9a9;    
+    --colorGrey03: #5f6361;    
     --colorSuccessSuccess50: #e8f8e8;    
     --colorSuccessSuccess100: #b6e9b8;    
     --colorSuccessSuccess200: #93de96;    
@@ -57,4 +57,6 @@
     --colorErrorError700: #a20303;    
     --colorErrorError800: #7d0202;    
     --colorErrorError900: #600202;    
+    --colorGreyM: #f5f7f6;    
+    --colorGrey05: #191a1a;    
 }
